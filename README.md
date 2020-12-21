@@ -3,7 +3,7 @@
 - This repository is for my personal projects and class assignments, much of which is from 2019.
 - All of my professional work is private and will not be shared here.
 
-I'm working on learning the Django framework, and some Rust programing
+I'm working on learning the Django framework, and Rust
 
 Avidly learning more about GNU/Linux
 
