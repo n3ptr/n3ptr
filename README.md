@@ -1,6 +1,6 @@
 ### Hello and welcome
 
-this repository is of my personal projects, and class assignements. All of my professional work is private and will not be shared here. 
+This repository is of my personal projects, and class assignements. All of my professional work is private and will not be shared here. 
 
 I'm working on learning the Django framework, and some Rust programing at the moment.
 
