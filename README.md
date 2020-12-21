@@ -1,9 +1,10 @@
 ### Hello and welcome
 
-This repository is for my personal projects and class assignments, much of which is from 2019.
-All of my professional work is private and will not be shared here.
+- This repository is for my personal projects and class assignments, much of which is from 2019.
+- All of my professional work is private and will not be shared here.
 
 I'm working on learning the Django framework, and some Rust programing at the moment.
+
 
 <!--
 **n3ptr/n3ptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
