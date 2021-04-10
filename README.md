@@ -3,7 +3,7 @@
 - This repository is for my personal projects and class assignments, much of which is from 2019.
 - All of my professional work is private and will not be shared here.
 
-Learning the Django framework, Rust, and more about life in GNU/Linux
+Learning the Django framework, Rust, and more about Linux
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3ptr&layout=compact)](https://github.com/n3ptr/github-readme-stats)
 
